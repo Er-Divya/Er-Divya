@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I am Divya Bhadauria</h1>
-<h4 align="center">A passionate and aspiring data analyst focused on uncovering patterns and making data-driven decisions by turning raw data into actionable insights.</h4>
+<h4 align="center">Driven by a passion for the data field, I am dedicated to discovering patterns and deriving meaningful insights from complex datasets. My goal is to leverage data to inform strategic decisions and create impactful solutions, transforming raw information into valuable knowledge.</h4>
 
 <p align="left">
 </p>
