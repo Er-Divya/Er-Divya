@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I am Divya Bhadauria</h1>
+<h1 align="center">Hi there👋, I am Divya</h1>
 <h4 align="center">Driven by a passion for the data field, I am dedicated to discovering patterns and deriving meaningful insights from complex datasets. My goal is to leverage data to inform strategic decisions and create impactful solutions, transforming raw information into valuable knowledge.</h4>
 
 <p align="left">
